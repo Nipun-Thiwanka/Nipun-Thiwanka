@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Nipun Thiwanka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align="center">
 <!--       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate+Of+Uva+Wellassa.;Always+learning+new+things.;Team+Player.;Freelancer.;Volunteer." alt="Typing SVG" /></a> -->
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=UG+Of+Uva+Wellassa+University;SQA+Intern+at+LOLC+Technologies;Always+Learning+New+Things;Team+Player;Freelancer;Volunteer)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=UG+Of+Uva+Wellassa+University;SQA+Intern+at+LOLC+Technologies;Always+Learning+New+Things;Team+Player;Freelancer;Volunteer" alt="Typing SVG" /></a>
     </p>
     <p align="center">
       <img src="https://komarev.com/ghpvc/?username=Nipun-Thiwanka" alt="Nipun-Thiwanka" /> 
