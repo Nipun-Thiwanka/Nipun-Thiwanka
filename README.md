@@ -1,4 +1,4 @@
-﻿
+
 <!-- HEADING -->
 <h1 align="center">Hi , I'm Nipun Thiwanka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align="center">
@@ -70,7 +70,6 @@
 <br/>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nipun-Thiwanka's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Nipun-Thiwanka&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nipun-Thiwanka&custom_title=This%20is%20a%20title&&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- TOOLS AND LANGUAGE -->
