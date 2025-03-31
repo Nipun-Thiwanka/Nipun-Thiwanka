@@ -14,7 +14,7 @@
     </div>
     
 <!-- ABOUT ME -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> About me <img src="" width="30" height="30" style="margin-right: 10px;"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> About me </h2>
     <a target="_blank" align="center">
       <img align="right" top="100" bottom= "100" height="350" width="400" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
     </a>
