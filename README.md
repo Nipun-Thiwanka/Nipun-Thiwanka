@@ -1,6 +1,6 @@
 
 <!-- HEADING -->
-<h1 align="center">Hi , I'm Nipun Thiwanka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Thiwanka Rajapaksha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align="center">
 <!--       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate+Of+Uva+Wellassa.;Always+learning+new+things.;Team+Player.;Freelancer.;Volunteer." alt="Typing SVG" /></a> -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=2%2B+Years+Of+Experience;QA+Automation+Engineer;Selenium;Appium;Rest-Assured;Mobile+Application+Automation+(Android+%2B+iOS);Web+Application+Automation;CI%2FCD+Integration" alt="Typing SVG" /></a>
@@ -19,19 +19,21 @@
       <img align="right" top="100" bottom= "100" height="350" width="400" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
     </a>
 
-- 👨🏻‍🎓 I am an `Undergraduate` at the Department of Computer Science & Informatics at <a href="https://uwu.ac.lk/">Uva Wellassa University</a> pursuing B.Sc. (Hons) in Industrial Information Technology.
+-👨🏻‍🎓 I am a Graduate with a Bachelor's in Industrial Information Technology(Hons) from the Department of Computer Science & Informatics at <a href="https://uwu.ac.lk/">Uva Wellassa University</a>.
 
-- 🌏 I'm living now in Gampaha, Sri Lanka.
+-💼 Currently working as a QA Automation Engineer at LOLC Technologies, focusing on iPay and FusionX projects.
 
-- 🤝 I’m available for freelancing.
+-🌏 Based in Gampaha, Sri Lanka.
 
-- 🌱 I’m currently learning React.
+-🤝 Available for freelancing opportunities.
 
-- 👨🏻‍🔬 I love learning about `new technologies`, `computer science` & `coding`.
+-🌱 Currently learning Cypress to expand my test automation skills.
 
-- 📫 Reach me **nipunthiwankarajapaksha@gmail.com**
+-👨🏻‍🔬 Passionate about new technologies, automation testing, and coding.
 
-- 📄 Know about my experiences **Resume** 
+-📫 Reach me at nipunthiwankarajapaksha@gmail.com.
+
+-📄 More about my experience: [Resume]
 
 <p align="center" >❤️</p>
 
