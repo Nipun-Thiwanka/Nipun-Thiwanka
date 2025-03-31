@@ -14,7 +14,7 @@
     </div>
     
 <!-- ABOUT ME -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> About me <img src="https://camo.githubusercontent.com/017ce09cb328afef06129604953c8331f3c09f3bda8b7081e8b7c4de23b1a723/68747470733a2f2f632e74656e6f722e636f6d2f585362443930326e31667741414141692f72656e6e656e2d666173742e676966" width="30" height="30" style="margin-right: 10px;"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> About me <img src="" width="30" height="30" style="margin-right: 10px;"></h2>
     <a target="_blank" align="center">
       <img align="right" top="100" bottom= "100" height="350" width="400" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
     </a>
